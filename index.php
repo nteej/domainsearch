@@ -31,7 +31,7 @@ and open the template in the editor.
 			<div class="row">
 				<div class="col">
 					<div class="header_content d-flex flex-row align-items-center justify-content-start trans_400">
-       <div class="logo"><a href="http://nic.lk/"><span>Domain </span>List</a></div>
+       <div class="logo"><a href="http://nic.lk/"><span>Domain </span>Test</a></div>
 						<nav class="main_nav ml-auto mr-auto">
 							<ul class="d-flex flex-row align-items-center justify-content-start">
          <li class="active"><a href="index.php">Home</a></li>
